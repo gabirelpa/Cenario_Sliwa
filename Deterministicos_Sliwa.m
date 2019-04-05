@@ -42,4 +42,8 @@ for lambda1=1: d1(1,2)
     end
 end
 
-display(D);
+disp(D);
+
+D=transpose(D);
+
+dlmwrite('Deterministicos_Sliwa.txt',D,'\t')
