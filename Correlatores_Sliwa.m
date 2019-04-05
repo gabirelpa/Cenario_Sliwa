@@ -88,4 +88,4 @@ end
 
 C=transpose(C);
 
-dlmwrite('Correlatores_tripartido.txt',C,'\t')
+dlmwrite('Correlatores_Sliwa.txt',C,'\t')
