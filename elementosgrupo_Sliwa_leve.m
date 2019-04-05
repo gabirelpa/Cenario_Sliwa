@@ -17,7 +17,7 @@ for i=1: 12
         end
 end
 
-G=geradoras_tri;
+G=geradoras_Sliwa;
 
 A=table(G{1:26,1});
 
