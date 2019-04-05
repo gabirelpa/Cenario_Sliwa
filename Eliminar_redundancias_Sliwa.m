@@ -10,7 +10,7 @@ for i=1: 53856
     end
 end
 
-A=elementosgrupo_tri_leve;
+A=elementosgrupo_Sliwa_leve;
 
 v=[D(1,1),D(1,2),D(1,3),D(1,4),D(1,5),D(1,6),D(1,7),D(1,8),D(1,9),D(1,10),D(1,11),D(1,12),D(1,13),D(1,14),D(1,15),D(1,16),D(1,17),D(1,18),D(1,19),D(1,20),D(1,21),D(1,22),D(1,23),D(1,24),D(1,25),D(1,26)];
 orb=orbita(v,A);
